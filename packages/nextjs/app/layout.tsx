@@ -1,3 +1,4 @@
+import { AnonAadhaarProvider } from "@anon-aadhaar/react";
 import "@rainbow-me/rainbowkit/styles.css";
 import { Metadata } from "next";
 import { ScaffoldEthAppWithProviders } from "~~/components/ScaffoldEthAppWithProviders";
